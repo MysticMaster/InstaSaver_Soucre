@@ -1,0 +1,83 @@
+{
+  "lang": "es",
+  "title": "Instagram Video Downloader - Tool to download video Instagram",
+  "description": "InstaSaver is one of the best free video download tools available online. It's easy-to-use and offers fast downloads",
+  "twitter_card_sumary": "InstaSaver",
+  "twitter_title": "Ins Downloader - Download Video Ins",
+  "twitter_description": "Ins Video Downloader - InstaSaver es una de las mejores herramientas gratuitas de descarga de videos disponibles en línea. Es fácil de usar y ofrece descargas rápidas sin marcas de agua. Puede descargar videos de Ins desde cualquier dispositivo que tenga.",
+  "og_title": "Ins Downloader - Descargar Video Ins",
+  "og_description": "Ins Video Downloader - InstaSaver es una de las mejores herramientas gratuitas de descarga de videos disponibles en línea. Es fácil de usar y ofrece descargas rápidas sin marcas de agua. Puede descargar videos de Ins desde cualquier dispositivo que tenga.",
+  "h1": "Instagram Downloader",
+  "h2": "Descargar Video Instagram a MP4, Photo, Reels, Stories",
+  "placeholder": "Ingrese el enlace de Instagram para descargar",
+  "paste": "Pegar",
+  "download": "Descargar",
+  "error": "La URL no es válida o no existe",
+  "timeout": "Tiempo de respuesta agotado",
+  "h1_title": "InstaSaver - Mejor herramienta Instagram Downloader",
+  "h1_content": "¡Bienvenido a nuestro Instagram Downloader, donde realmente puedes sumergirte en el mundo mágico de Instagram en tus propios términos! Con InstaSaver, puedes descargar fácilmente videos de Instagram, descargar reels de Instagram o descargar la historia de Instagram sin necesidad de información de inicio de sesión de Instagram. ¡Dile adiós a la espera y adiós a los problemas! ¡Tu contenido favorito de Instagram ya está listo para disfrutarlo sin conexión, con solo unos pocos clics en InstaSaver!",
+  "h2_title1": "Cómo funciona",
+  "h2_content1": [
+    "Copiar URL del video de Instagram: simplemente copie la URL del video de Instagram que desea descargar.",
+    "Pegar URL: Pegue la URL en el campo correspondiente en nuestro sitio web.",
+    "Descargar video: haga clic en el botón \"Descargar\" y ¡ya está! Su video se guardará en su dispositivo."
+  ],
+  "h2_title2": "Características clave",
+  "h2_content2": [
+    "Rápido y fácil: nuestra herramienta facilita la descarga de videos de Instagram de manera rápida y sencilla.",
+    "Sin marcas de agua: disfrute de videos descargados sin ninguna marca de la herramienta de descarga.",
+    "Guardar video de Instagram: descargue y guarde sus videos favoritos de Instagram para verlos sin conexión en cualquier momento.",
+    "Cómo descargar videos de Instagram: siga fácilmente los pasos proporcionados para descargar videos de Instagram sin problemas."
+  ],
+  "h2_title3": "Comenzar ahora",
+  "h2_content3": "¿Listo para comenzar a descargar tus videos de Instagram? Use nuestra herramienta ahora y disfrute de su contenido favorito en cualquier momento, en cualquier lugar.",
+  "save": "Descargar ahora",
+  "back": "Descargar más",
+  "language": "Idioma",
+  "FAQ": [
+    {
+      "Q": "¿Cómo uso Instagram Video Downloader?",
+      "A": "¡Es simple! Solo copia la URL del video de Instagram y pégalo en nuestra herramienta de descarga."
+    },
+    {
+      "Q": "¿Los videos que descargo mantendrán su calidad?",
+      "A": "Sí, los videos descargados con Instagram Video Downloader mantendrán la misma calidad que en Instagram."
+    },
+    {
+      "Q": "¿Es necesario instalar algún software?",
+      "A": "¡No es necesario! Instagram Video Downloader funciona en línea, no se requiere la instalación de ningún software."
+    },
+    {
+      "Q": "¿Puedo descargar videos de Instagram en teléfonos móviles?",
+      "A": "¡Absolutamente! Instagram Video Downloader funciona tanto en computadoras como en teléfonos móviles."
+    },
+    {
+      "Q": "¿Puedo descargar tanto videos como historias de Instagram?",
+      "A": "Sí, puedes descargar tanto videos como historias de Instagram usando Instagram Video Downloader."
+    },
+    {
+      "Q": "¿Puedo descargar videos de cualquier cuenta de Instagram?",
+      "A": "¡Así es! Se puede descargar cualquier video público o privado."
+    },
+    {
+      "Q": "¿Necesito pagar para usar este servicio?",
+      "A": "¡Para nada! Instagram Video Downloader es completamente gratuito para usar."
+    },
+    {
+      "Q": "¿Habrá una marca de agua en los videos descargados?",
+      "A": "No, Instagram Video Downloader no agrega marcas de agua a los videos descargados."
+    },
+    {
+      "Q": "¿Hay un límite en la cantidad de videos que puedo descargar?",
+      "A": "No, ¡no hay límite! Puedes descargar todos los videos de Instagram que quieras sin ninguna restricción."
+    },
+    {
+      "Q": "¿Dónde se guardan mis videos descargados después de que se descargan?",
+      "A": "Los videos generalmente se guardan en la carpeta \"Descargas\" tanto en teléfonos Android como en PC."
+    }
+  ],
+  "card1_title": "Descargar Video de Instagram",
+  "card1_content": "InstaSaver fue creado para permitirte descargar videos de IG para cualquier propósito que desees. InstaSaver admite la descarga de videos tanto para videos individuales y múltiples desde Insta.",
+  "card2_title": "Descargar Historia de Instagram",
+  "card2_content": "Instagram Story es una manera única para que cualquiera comparta su vida cotidiana a través de fotos y videos con todos. A veces, quieres guardar una historia que te gusta, pero esta función no está admitida en la aplicación. InstaSaver fue creado para solucionar este problema; para ayudar a las personas a descargar Historias en Instagram y verlas directamente."
+}

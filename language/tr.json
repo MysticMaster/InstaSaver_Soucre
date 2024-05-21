@@ -1,0 +1,83 @@
+{
+  "lang": "tr",
+  "title": "Instagram Video Downloader - Tool to download video Instagram",
+  "description": "InstaSaver, çevrimiçi olarak mevcut olan en iyi ücretsiz Instagram video indirme araçlarından biridir. Kolay kullanımlıdır ve hızlı indirmeler sunar.",
+  "twitter_card_sumary": "InstaSaver",
+  "twitter_title": "Ins Downloader - Video Ins İndir",
+  "twitter_description": "Ins Video Downloader - InstaSaver, çevrimiçi mevcut olan en iyi ücretsiz video indirme araçlarından biridir. Kolay kullanımlıdır ve filigransız hızlı indirmeler sunar. Herhangi bir cihazınızdan Ins videolarını indirebilirsiniz.",
+  "og_title": "Ins Downloader - Video Ins İndir",
+  "og_description": "Ins Video Downloader - InstaSaver, çevrimiçi mevcut olan en iyi ücretsiz video indirme araçlarından biridir. Kolay kullanımlıdır ve filigransız hızlı indirmeler sunar. Herhangi bir cihazınızdan Ins videolarını indirebilirsiniz.",
+  "h1": "Instagram İndirici",
+  "h2": "Instagram Videolarını MP4, Fotoğraf, Reels, Hikayeler olarak indir",
+  "placeholder": "İndirmek için Instagram bağlantısını girin",
+  "paste": "Yapıştır",
+  "download": "İndir",
+  "error": "URL geçersiz veya mevcut değil",
+  "timeout": "Yanıt zaman aşımı",
+  "h1_title": "InstaSaver - En İyi Instagram İndirme Aracı",
+  "h1_content": "Instagram İndiricimize hoş geldiniz, kendi şartlarınızda Instagram'ın büyülü dünyasında gerçekten kendinize ait olabilirsiniz. InstaSaver ile, Instagram'dan videoları, Instagram'dan katmanları veya Instagram'dan hikayeyi Instagram giriş bilgilerine ihtiyaç duymadan kolayca indirebilirsiniz. Beklemeye ve sorunlara veda edin. Favori Instagram içeriğiniz şimdi çevrimdışı olarak keyfini çıkarmaya hazır - InstaSaver'da sadece birkaç hafif tıklama ile!",
+  "h2_title1": "Nasıl Çalışır",
+  "h2_content1": [
+    "Instagram Video URL'sini Kopyala: İndirmek istediğiniz Instagram videosunun URL'sini basitçe kopyalayın.",
+    "URL'yi Yapıştırın: URL'yi web sitemizdeki ilgili alana yapıştırın.",
+    "Videoyu İndir: \"İndir\" butonuna tıklayın ve işte bu kadar! Videonuz cihazınıza kaydedilecek."
+  ],
+  "h2_title2": "Ana Özellikler",
+  "h2_content2": [
+    "Hızlı ve Kolay: Aracımız, Instagram videolarını hızlı ve kolay bir şekilde indirmenizi sağlar.",
+    "Filigransız: İndirilen videoların keyfini, indirme aracından herhangi bir marka olmadan çıkarın.",
+    "Instagram Video Kaydet: Favori Instagram videolarınızı indirin ve her zaman çevrimdışı izlemek üzere saklayın.",
+    "Instagram Videoları Nasıl İndirilir: Instagram videolarını sorunsuz bir şekilde indirmek için sunulan adımları kolayca takip edin."
+  ],
+  "h2_title3": "Şimdi Başla",
+  "h2_content3": "Instagram videolarınızı indirmeye hazır mısınız? Aracımızı şimdi kullanın ve favori içeriğinizin keyfini istediğiniz zaman, her yerde çıkarın.",
+  "save": "Şimdi İndir",
+  "back": "Daha fazla indir",
+  "language": "Dil",
+  "FAQ": [
+    {
+      "Q": "Instagram Video Downloader nasıl kullanılır?",
+      "A": "Çok basit! Instagram'dan videonun URL'sini kopyalayın ve bunu indirme aracımıza yapıştırın."
+    },
+    {
+      "Q": "İndirdiğim videolar kalitesini korur mu?",
+      "A": "Evet, Instagram Video Downloader ile indirilen videolar Instagram'daki ile aynı kalitede olacaktır."
+    },
+    {
+      "Q": "Herhangi bir yazılım yüklemesi gerekiyor mu?",
+      "A": "Hiç gerek yok! Instagram Video Downloader çevrimiçi çalışır, yazılım yüklemesi gerekli değildir."
+    },
+    {
+      "Q": "Instagram videolarını mobil telefonlarda indirebilir miyim?",
+      "A": "Kesinlikle! Instagram Video Downloader hem bilgisayarlarda hem de mobil telefonlarda çalışır."
+    },
+    {
+      "Q": "Instagram'dan hem videoları hem de hikayeleri indirebilir miyim?",
+      "A": "Evet, Instagram Video Downloader kullanarak Instagram'dan hem videoları hem de hikayeleri indirebilirsiniz."
+    },
+    {
+      "Q": "Herhangi bir Instagram hesabından video indirebilir miyim?",
+      "A": "Doğru! Herhangi bir kamusal veya özel video indirilebilir."
+    },
+    {
+      "Q": "Bu hizmeti kullanmak için ödeme yapmam gerekiyor mu?",
+      "A": "Hiç de! Instagram Video Downloader tamamen ücretsiz bir hizmettir."
+    },
+    {
+      "Q": "İndirilen videolarda bir filigran olacak mı?",
+      "A": "Hayır, Instagram Video Downloader indirilen videolara herhangi bir filigran eklemiyor."
+    },
+    {
+      "Q": "İndirebileceğim video sayısı konusunda bir sınırlama var mı?",
+      "A": "Hayır, bir sınırlama yok! İstediğiniz kadar Instagram videosunu hiçbir kısıtlama olmadan indirebilirsiniz."
+    },
+    {
+      "Q": "İndirdiğim videolar indirildikten sonra hangi klasörde saklanır?",
+      "A": "Videolar genellikle hem Android telefonlarda hem de bilgisayarlarda \"İndirilenler\" klasöründe saklanır."
+    }
+  ],
+  "card1_title": "Instagram Video İndir",
+  "card1_content": "InstaSaver, IG videolarını istediğiniz herhangi bir amaç için indirebilmeniz için oluşturuldu. InstaSaver, Insta'dan hem tekli hem de birden çok video indirmeyi destekler.",
+  "card2_title": "Instagram Hikayesi İndir",
+  "card2_content": "Instagram Hikayesi, herkesin resimler ve videolar aracılığıyla günlük yaşamını paylaşmasına özgü bir yoldur. Bazen beğendiğiniz bir hikayeyi kaydetmek istersiniz, ancak bu özellik uygulamada desteklenmiyor. Bu sorunu çözmek için InstaSaver oluşturuldu; insanların Instagram Hikayelerini indirmesine ve bunları doğrudan izlemesine yardımcı olur."
+}

@@ -1,0 +1,83 @@
+{
+  "lang": "fr",
+  "title": "Téléchargeur de vidéos Instagram - Outil pour télécharger des vidéos Instagram",
+  "description": "InstaSaver est l'un des meilleurs outils gratuits de téléchargement de vidéos disponible en ligne. Il est facile à utiliser et propose des téléchargements rapides.",
+  "twitter_card_sumary": "InstaSaver",
+  "twitter_title": "Téléchargeur Ins - Télécharger des vidéos Ins",
+  "twitter_description": "Téléchargeur de vidéos Ins - InstaSaver est l'un des meilleurs outils gratuits de téléchargement de vidéos disponible en ligne. Il est facile à utiliser et propose des téléchargements rapides sans filigrane. Vous pouvez télécharger des vidéos Ins depuis n'importe quel appareil.",
+  "og_title": "Téléchargeur Ins - Télécharger des vidéos Ins",
+  "og_description": "Téléchargeur de vidéos Ins - InstaSaver est l'un des meilleurs outils gratuits de téléchargement de vidéos disponible en ligne. Il est facile à utiliser et propose des téléchargements rapides sans filigrane. Vous pouvez télécharger des vidéos Ins depuis n'importe quel appareil.",
+  "h1": "Instagram Downloader",
+  "h2": "Télécharger des vidéos Instagram en MP4",
+  "placeholder": "Entrez le lien Instagram à télécharger",
+  "paste": "Coller",
+  "download": "Télécharger",
+  "error": "L'URL est invalide ou n'existe pas",
+  "timeout": "Délai de réponse dépassé",
+  "h1_title": "InstaSaver - Meilleur outil de téléchargement Instagram",
+  "h1_content": "Bienvenue dans notre Instagram Downloader, où vous pouvez vraiment vous immerger dans le monde magique d'Instagram à vos propres conditions. Avec InstaSaver, vous pouvez facilement télécharger des vidéos d'Instagram, télécharger des bobines d'Instagram ou télécharger l'histoire d'Instagram sans avoir besoin des informations de connexion à Instagram. Dites adieu à l'attente et aux ennuis. Votre contenu Instagram préféré est maintenant prêt à être apprécié hors ligne - avec seulement quelques clics doux sur InstaSaver!",
+  "h2_title1": "Comment ça fonctionne",
+  "h2_content1": [
+    "Copier l'URL de la vidéo Instagram : Copiez simplement l'URL de la vidéo Instagram que vous souhaitez télécharger.",
+    "Coller l'URL : Collez l'URL dans le champ correspondant sur notre site Web.",
+    "Télécharger la vidéo : Cliquez sur le bouton \"Télécharger\" et le tour est joué ! Votre vidéo sera enregistrée sur votre appareil."
+  ],
+  "h2_title2": "Fonctionnalités principales",
+  "h2_content2": [
+    "Rapide et facile : Notre outil facilite le téléchargement de vidéos d'Instagram rapidement et en toute simplicité.",
+    "Pas de filigrane : Profitez des vidéos téléchargées sans aucun filigrane laissé par l'outil de téléchargement.",
+    "Enregistrer une vidéo Instagram : Téléchargez et stockez vos vidéos Instagram préférées pour les regarder hors ligne à tout moment.",
+    "Comment télécharger des vidéos Instagram : Suivez facilement les étapes fournies pour télécharger des vidéos Instagram sans problème."
+  ],
+  "h2_title3": "Commencer maintenant",
+  "h2_content3": "Prêt à commencer à télécharger vos vidéos Instagram ? Utilisez notre outil dès maintenant et profitez de votre contenu préféré à tout moment et en tout lieu.",
+  "save": "Télécharger maintenant",
+  "back": "Télécharger plus",
+  "language": "Langue",
+  "FAQ": [
+    {
+      "Q": "Comment utiliser le téléchargeur de vidéos Instagram ?",
+      "A": "C'est simple ! Copiez simplement l'URL de la vidéo depuis Instagram et collez-la dans notre outil de téléchargement."
+    },
+    {
+      "Q": "Est-ce que les vidéos que je télécharge conserveront leur qualité ?",
+      "A": "Oui, les vidéos téléchargées avec le téléchargeur de vidéos Instagram conserveront la même qualité que sur Instagram."
+    },
+    {
+      "Q": "Une installation de logiciel est-elle nécessaire ?",
+      "A": "Pas besoin ! Le téléchargeur de vidéos Instagram fonctionne en ligne, aucune installation de logiciel n'est requise."
+    },
+    {
+      "Q": "Puis-je télécharger des vidéos Instagram sur des téléphones portables ?",
+      "A": "Absolument ! Le téléchargeur de vidéos Instagram fonctionne aussi bien sur les ordinateurs que sur les téléphones portables."
+    },
+    {
+      "Q": "Puis-je télécharger des vidéos et des stories Instagram ?",
+      "A": "Oui, vous pouvez télécharger des vidéos et des stories Instagram en utilisant le téléchargeur de vidéos Instagram."
+    },
+    {
+      "Q": "Puis-je télécharger des vidéos de n'importe quel compte Instagram ?",
+      "A": "C'est exact ! Toute vidéo publique ou privée peut être téléchargée."
+    },
+    {
+      "Q": "Dois-je payer pour utiliser ce service ?",
+      "A": "Pas du tout ! Le téléchargeur de vidéos Instagram est entièrement gratuit."
+    },
+    {
+      "Q": "Y aura-t-il un filigrane sur les vidéos téléchargées ?",
+      "A": "Non, le téléchargeur de vidéos Instagram n'ajoute aucun filigrane aux vidéos téléchargées."
+    },
+    {
+      "Q": "Y a-t-il une limite au nombre de vidéos que je peux télécharger ?",
+      "A": "Non, il n'y a pas de limite ! Vous pouvez télécharger autant de vidéos d'Instagram que vous le souhaitez sans aucune restriction."
+    },
+    {
+      "Q": "Où sont stockées mes vidéos téléchargées après leur téléchargement ?",
+      "A": "Les vidéos sont généralement stockées dans le dossier \"Téléchargements\" sur les téléphones Android et les PC."
+    }
+  ],
+  "card1_title": "Télécharger des vidéos Instagram",
+  "card1_content": "InstaSaver a été créé pour vous permettre de télécharger des vidéos IG pour n'importe quel usage. InstaSaver prend en charge le téléchargement de vidéos individuelles et de plusieurs vidéos à partir d'Insta.",
+  "card2_title": "Télécharger des stories Instagram",
+  "card2_content": "Instagram Story est un moyen unique pour quiconque de partager sa vie quotidienne à travers des photos et des vidéos avec tout le monde. Parfois, vous voulez enregistrer une story que vous aimez, mais cette fonctionnalité n'est pas prise en charge dans l'application. InstaSaver a été créé pour résoudre ce problème : aider les gens à télécharger des Stories sur Instagram et à les regarder directement."
+}

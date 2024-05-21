@@ -1,0 +1,496 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title><%= __('title') %></title>
+    <meta name="description"
+          content="<%= __('description') %>"/>
+    <meta itemprop="image" content="">
+
+    <meta name="robots" content="index, follow"/>
+
+    <meta name="twitter:card" content="InstaSaver"/>
+    <meta name="twitter:title" content="<%= __('twitter_title') %>">
+    <meta name="twitter:description" content="<%= __('twitter_description') %>">
+    <meta name="twitter:image:src" content="/images/quickload.png"/>
+    <meta name="twitter:site" content="InstaSaver"/>
+
+    <meta property="og:title" content="<%= __('og_title') %>">
+    <meta property="og:type" content="article"/>
+    <meta property="og:image" content="/images/quickload.png"/>
+    <meta property="og:description" content="<%= __('og_description') %>">
+    <meta property="og:site_name" content="InstaSaver"/>
+
+    <link rel="icon" type="image/png" href="/images/quickload.png">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+          integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+    <link rel="apple-touch-icon" sizes="192x192" href="/images/quickload.png">
+    <link rel="shortcut icon" sizes="192x192" href="/images/quickload.png">
+    <meta name="google" content="notranslate"/>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6705616556499368"
+            crossorigin="anonymous"></script>
+    <link rel="alternate" hreflang="x-default" href="/">
+    <link rel="canonical" href="/">
+    <link rel="alternate" hreflang="af" href="/af">
+    <link rel="alternate" hreflang="sq" href="/sq">
+    <link rel="alternate" hreflang="am" href="/am">
+    <link rel="alternate" hreflang="ar" href="/ar">
+    <link rel="alternate" hreflang="hy" href="/hy">
+    <link rel="alternate" hreflang="az" href="/az">
+    <link rel="alternate" hreflang="eu" href="/eu">
+    <link rel="alternate" hreflang="be" href="/be">
+    <link rel="alternate" hreflang="bn" href="/bn">
+    <link rel="alternate" hreflang="bs" href="/bs">
+    <link rel="alternate" hreflang="bg" href="/bg">
+    <link rel="alternate" hreflang="ca" href="/ca">
+    <link rel="alternate" hreflang="cab" href="/cab">
+    <link rel="alternate" hreflang="zh-CN" href="/zh-CN">
+    <link rel="alternate" hreflang="zh-TW" href="/zh-TW">
+    <link rel="alternate" hreflang="co" href="/co">
+    <link rel="alternate" hreflang="hr" href="/hr">
+    <link rel="alternate" hreflang="cs" href="/cs">
+    <link rel="alternate" hreflang="da" href="/da">
+    <link rel="alternate" hreflang="nl" href="/nl">
+    <link rel="alternate" hreflang="en" href="/en">
+    <link rel="alternate" hreflang="eo" href="/eo">
+    <link rel="alternate" hreflang="et" href="/et">
+    <link rel="alternate" hreflang="fi" href="/fi">
+    <link rel="alternate" hreflang="fr" href="/fr">
+    <link rel="alternate" hreflang="fy" href="/fy">
+    <link rel="alternate" hreflang="gl" href="/gl">
+    <link rel="alternate" hreflang="ka" href="/ka">
+    <link rel="alternate" hreflang="de" href="/de">
+    <link rel="alternate" hreflang="el" href="/el">
+    <link rel="alternate" hreflang="gu" href="/gu">
+    <link rel="alternate" hreflang="ht" href="/ht">
+    <link rel="alternate" hreflang="ha" href="/ha">
+    <link rel="alternate" hreflang="haw" href="/haw">
+    <link rel="alternate" hreflang="iw" href="/iw">
+    <link rel="alternate" hreflang="hi" href="/hi">
+    <link rel="alternate" hreflang="hmn" href="/hmn">
+    <link rel="alternate" hreflang="hu" href="/hu">
+    <link rel="alternate" hreflang="is" href="/is">
+    <link rel="alternate" hreflang="ig" href="/ig">
+    <link rel="alternate" hreflang="ga" href="/ga">
+    <link rel="alternate" hreflang="it" href="/it">
+    <link rel="alternate" hreflang="ja" href="/ja">
+    <link rel="alternate" hreflang="jw" href="/jw">
+    <link rel="alternate" hreflang="kn" href="/kn">
+    <link rel="alternate" hreflang="kk" href="/kk">
+    <link rel="alternate" hreflang="km" href="/km">
+    <link rel="alternate" hreflang="ko" href="/ko">
+    <link rel="alternate" hreflang="ku" href="/ku">
+    <link rel="alternate" hreflang="ky" href="/ky">
+    <link rel="alternate" hreflang="lo" href="/lo">
+    <link rel="alternate" hreflang="la" href="/la">
+    <link rel="alternate" hreflang="lv" href="/lv">
+    <link rel="alternate" hreflang="lt" href="/lt">
+    <link rel="alternate" hreflang="lb" href="/lb">
+    <link rel="alternate" hreflang="mk" href="/mk">
+    <link rel="alternate" hreflang="mg" href="/mg">
+    <link rel="alternate" hreflang="ms" href="/ms">
+    <link rel="alternate" hreflang="ml" href="/ml">
+    <link rel="alternate" hreflang="mt" href="/mt">
+    <link rel="alternate" hreflang="mi" href="/mi">
+    <link rel="alternate" hreflang="mr" href="/mr">
+    <link rel="alternate" hreflang="mn" href="/mn">
+    <link rel="alternate" hreflang="my" href="/my">
+    <link rel="alternate" hreflang="ne" href="/ne">
+    <link rel="alternate" hreflang="no" href="/no">
+    <link rel="alternate" hreflang="ny" href="/ny">
+    <link rel="alternate" hreflang="ps" href="/ps">
+    <link rel="alternate" hreflang="fa" href="/fa">
+    <link rel="alternate" hreflang="pl" href="/pl">
+    <link rel="alternate" hreflang="pt" href="/pt">
+    <link rel="alternate" hreflang="pa" href="/pa">
+    <link rel="alternate" hreflang="ro" href="/ro">
+    <link rel="alternate" hreflang="ru" href="/ru">
+    <link rel="alternate" hreflang="sm" href="/sm">
+    <link rel="alternate" hreflang="gd" href="/gd">
+    <link rel="alternate" hreflang="sr" href="/sr">
+    <link rel="alternate" hreflang="st" href="/st">
+    <link rel="alternate" hreflang="sn" href="/sn">
+    <link rel="alternate" hreflang="sd" href="/sd">
+    <link rel="alternate" hreflang="si" href="/si">
+    <link rel="alternate" hreflang="sk" href="/sk">
+    <link rel="alternate" hreflang="sl" href="/sl">
+    <link rel="alternate" hreflang="so" href="/so">
+    <link rel="alternate" hreflang="es" href="/es">
+    <link rel="alternate" hreflang="su" href="/su">
+    <link rel="alternate" hreflang="sw" href="/sw">
+    <link rel="alternate" hreflang="sv" href="/sv">
+    <link rel="alternate" hreflang="tl" href="/tl">
+    <link rel="alternate" hreflang="tg" href="/tg">
+    <link rel="alternate" hreflang="ta" href="/ta">
+    <link rel="alternate" hreflang="te" href="/te">
+    <link rel="alternate" hreflang="th" href="/th">
+    <link rel="alternate" hreflang="tr" href="/tr">
+    <link rel="alternate" hreflang="uk" href="/uk">
+    <link rel="alternate" hreflang="ur" href="/ur">
+    <link rel="alternate" hreflang="uz" href="/uz">
+    <link rel="alternate" hreflang="vi" href="/vi">
+    <link rel="alternate" hreflang="cy" href="/cy">
+    <link rel="alternate" hreflang="xh" href="/xh">
+    <link rel="alternate" hreflang="yi" href="/yi">
+    <link rel="alternate" hreflang="yo" href="/yo">
+    <link rel="alternate" hreflang="zu" href="/zu">
+
+    <link rel="stylesheet" href="stylesheets/style.css">
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+            crossorigin="anonymous"></script>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-SHTECEC0QC"></script>
+    <script>
+        function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config","G-SHTECEC0QC");
+    </script>
+</head>
+<body>
+
+<header>
+    <nav class="navbar navbar-expand-lg navbar-light w-100 " style="box-shadow: 0 1px 5px rgba(0, 0, 0, 0.3);">
+        <div class="container-fluid d-flex flex-row justify-content-between align-items-center w-100">
+
+            <div class="navbar-brand d-flex">
+                <div id="insta" class="fw-bold text-info">InstaSaver</div>
+            </div>
+
+            <button class="navbar-toggler d-sm-none" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarNav"
+                    aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse d-sm-none" id="navbarNav">
+                <ul class="navbar-nav d-sm-none">
+                    <li class="nav-item">
+                        <a href="/en" class="nav-link ">English</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/vi" class="nav-link ">Tiếng Việt</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/id" class="nav-link ">Bahasa Indonesia</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/ms" class="nav-link ">Bahasa Malaysia</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/hi" class="nav-link ">हिन्दी</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/pt" class="nav-link ">Português</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/cs" class="nav-link ">Jazyky</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/jv" class="nav-link ">Basa Jawa</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/ko" class="nav-link ">한국어</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/it" class="nav-link ">Italiano</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/fr" class="nav-link ">Français</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/uk" class="nav-link ">українська мова</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/th" class="nav-link ">ภาษาไทย</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/ru" class="nav-link ">русский</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/es" class="nav-link ">Español</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/bn" class="nav-link ">বাংলা</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/pa" class="nav-link ">ਪੰਜਾਬੀ</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/tr" class="nav-link ">Turkish</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/de" class="nav-link ">German</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/ja" class="nav-link ">日本語</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="dropdown d-none d-sm-block d-flex">
+                <div class="btn nav-link dropdown-toggle" style="color: black" id="dropdownMenuButton1"
+                     data-bs-toggle="dropdown" aria-expanded="false">
+                    <%= __('language') %>
+                </div>
+                <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+                    <li><a href="/en" class="dropdown-item">English</a></li>
+                    <li><a href="/vi" class="dropdown-item">Tiếng Việt</a></li>
+                    <li><a href="/id" class="dropdown-item">Bahasa Indonesia</a></li>
+                    <li><a href="/ms" class="dropdown-item">Bahasa Malaysia</a></li>
+                    <li><a href="/hi" class="dropdown-item">हिन्दी</a></li>
+                    <li><a href="/pt" class="dropdown-item">Português</a></li>
+                    <li><a href="/cs" class="dropdown-item">Jazyky</a></li>
+                    <li><a href="/jv" class="dropdown-item">Basa Jawa</a></li>
+                    <li><a href="/ko" class="dropdown-item">한국어</a></li>
+                    <li><a href="/it" class="dropdown-item">Italiano</a></li>
+                    <li><a href="/fr" class="dropdown-item">Français</a></li>
+                    <li><a href="/uk" class="dropdown-item">українська мова</a></li>
+                    <li><a href="/th" class="dropdown-item">ภาษาไทย</a></li>
+                    <li><a href="/ru" class="dropdown-item">русский</a></li>
+                    <li><a href="/es" class="dropdown-item">Español</a></li>
+                    <li><a href="/bn" class="dropdown-item">বাংলা</a></li>
+                    <li><a href="/pa" class="dropdown-item">ਪੰਜਾਬੀ</a></li>
+                    <li><a href="/tr" class="dropdown-item">Turkish</a></li>
+                    <li><a href="/de" class="dropdown-item">German</a></li>
+                    <li><a href="/ja" class="dropdown-item">日本語</a></li>
+                </ul>
+            </div>
+
+        </div>
+    </nav>
+</header>
+
+<main class="mb-5">
+    <% if(!locals.videos){
+    %>
+        <% if(locals.error){
+        %>
+            <div id="link_err"
+                 class="alert-danger rounded p-1 p-sm-2 d-flex justify-content-between align-items-center"
+                 role="alert">
+                <div>
+                    <%= __('error') %>
+                </div>
+
+                <div class="fs-5 btn" id="cancel_err">x</div>
+            </div>
+        <%
+        }
+        %>
+
+        <% if(locals.timeout){
+        %>
+            <div id="res_timeout"
+                 class="alert-danger rounded p-1 p-sm-2 d-flex justify-content-between align-items-center"
+                 role="alert">
+                <div>
+                    <%= __('timeout') %>
+                </div>
+
+                <div class="fs-5 btn" id="cancel_timeout">x</div>
+            </div>
+        <%
+        }
+        %>
+
+        <div class="form-container">
+            <h1 class="text-white text-center fw-bold"><%= __('h1') %></h1>
+            <h3 class="text-white text-center mt-4"><%= __('h2') %></h3>
+
+            <form
+                    method="post" action="/"
+                    class="w-100 d-flex flex-column flex-sm-row align-items-center justify-content-center mt-5 ">
+
+                <div id="input_container" class="input-group ">
+                    <input id="ip_link" type="text" class="form-control" name="url" required
+                           autocomplete="off"
+                           placeholder="<%= __('placeholder') %>" aria-label="Username"
+                           aria-describedby="basic-addon1">
+                    <input type="hidden" id="ip_lang" name="lang" value="<%= __('lang') %>">
+                    <span id="btn_paste" class="input-group-text fw-bold px-4" style="color: #0098ff !important;">
+                        <img class="img-button" src="/images/paste.png" alt="">
+                        <%= __('paste') %></span>
+                </div>
+
+                <div class="mt-2 mt-sm-0">
+                    <button id="btn_download" type="submit"
+                            class="btn text-white p-2 p-sm-3 mx-2 ">
+                        <img class="img-button" src="/images/download.png" alt="">
+                        <%= __('download') %></button>
+                    <div id="loading"
+                         style="display:none;"
+                         class="btn text-white p-2 p-sm-3 mx-2 ">Loading...
+                    </div>
+                </div>
+            </form>
+        </div>
+
+        <div class="des-container" style="margin-top: 25rem;">
+            <h2 class=" mb-2 fw-bold text-center fw-bold"><%= __('h1_title') %></h2>
+            <p class=" mt-4"> <%= __('h1_content') %></p>
+
+            <div class="row g-2 g-sm-2 my-3">
+                <div class="col-12 col-md-5 mb-3 mb-sm-0 d-flex justify-content-center">
+                    <img src="/images/card1.webp"
+                         class="img-fluid rounded" alt="...">
+                </div>
+                <div class="col-12 col-md-7">
+                    <h2 class=" fw-bold"><%= __("card1_title") %></h2>
+                    <p class=""><%= __("card1_content") %></p>
+                </div>
+            </div>
+
+            <div class="row g-2 g-sm-2 my-3">
+                <div class="col-12 col-md-7 mb-3 mb-md-0 order-2 order-md-1">
+                    <h2 class=" fw-bold"><%= __("card2_title") %></h2>
+                    <p class=""><%= __("card2_content") %></p>
+                </div>
+                <div class="col-12 col-md-5 order-1 order-md-2 d-flex justify-content-center">
+                    <img src="/images/card2.webp"
+                         class="img-fluid rounded" alt="...">
+                </div>
+            </div>
+
+            <h2 class=" mt-md-5 fw-bold"><%= __('h2_title1') %></h2>
+            <ul class="list-group px-4">
+                <% __('h2_content1').forEach(function(item) { %>
+                    <li class=" fs-6"><%= item %></li>
+                <% }); %>
+            </ul>
+
+            <h2 class=" mt-3 fw-bold "><%= __('h2_title2') %></h2>
+            <ul class="list-group px-4">
+                <% __('h2_content2').forEach(function(item) { %>
+                    <li class=" fs-6"><%= item %></li>
+                <% }); %>
+            </ul>
+
+            <h2 class=" mt-3 fw-bold "><%= __('h2_title3') %></h2>
+            <p class=" mt-2"><%= __('h2_content3') %></p>
+
+            <h2 class=" mt-3 fw-bold">FAQ</h2>
+
+            <div class="accordion accordion-flush" id="accordionFlushExample">
+                <% __('FAQ').forEach(function(item, index) { %>
+                    <div class="accordion-item mt-3 border-0">
+                        <h2 class="accordion-header" id="flush-headingOne<%= index %>">
+                            <button class="accordion-button collapsed text-white rounded-3" type="button"
+                                    data-bs-toggle="collapse"
+                                    data-bs-target="#flush-collapseOne<%= index %>" aria-expanded="false"
+                                    aria-controls="flush-collapseOne<%= index %>">
+                                <%= item.Q %>
+                            </button>
+                        </h2>
+                        <div id="flush-collapseOne<%= index %>" class="accordion-collapse collapse"
+                             aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
+                            <div class="accordion-body"><%= item.A %></div>
+                        </div>
+                    </div>
+                <% }); %>
+            </div>
+
+        </div>
+
+    <%
+    } %>
+
+    <% if(locals.videos){
+    %>
+        <div class="des-container">
+            <div class="mt-5 row gap-4 gap-sm-2 gap-xl-3 gap-xxl-4">
+
+                <% videos.forEach(video => {
+                %>
+
+                    <% if(video.type === 'mp4') { %>
+                        <div id="card_download" class="card col-12 col-sm-6 col-xl-4">
+                            <div id="image-wrapper">
+                                <img
+                                        crossorigin="anonymous"
+                                        id="thumbnail"
+                                        src="<%= video.thumbnail %>"
+                                        class="card-img-top"
+                                        alt="img...">
+
+                                <img
+                                        id="play-image"
+                                        src="/images/mp4.png"
+                                        alt="Play button">
+
+                            </div>
+
+                            <div class="card-body mt-1 video d-flex justify-content-center align-items-center">
+                                <a href="https://dl.instasaver.me/?url=<%= video.src %>"
+                                   class="btn fs-5 w-100 mx-2 text-white" style="background-color: #0098ff;"><%= __('save') %></a>
+                            </div>
+
+                        </div>
+                    <% }else { %>
+                        <div id="card_download" class="card col-12 col-sm-6 col-xl-4">
+                            <div id="image-wrapper">
+                                <img
+                                        crossorigin="anonymous"
+                                        id="thumbnail"
+                                        src="<%= video.thumbnail %>"
+                                        class="card-img-top"
+                                        alt="img...">
+
+                                <img
+                                        id="play-image"
+                                        src="/images/jpg.png"
+                                        alt="Play button">
+
+                            </div>
+
+                            <div class="card-body mt-1 video d-flex justify-content-center align-items-center">
+                                <a href="https://photo.instasaver.me/?url=<%= video.src %>"
+                                   class="btn fs-5 w-100 mx-2 text-white" style="background-color: #0098ff;"><%= __('save') %></a>
+                            </div>
+
+                        </div>
+                    <% } %>
+
+                <%
+                });
+                %>
+
+                <a href="/<%= __('lang') %>"
+                   style="background-color: #0098ff;"
+                   class="w-100 justify-content-center text-white align-items-center btn mt-3 btn fs-5 p-2 p-sm-2 ">
+                    <%= __('back') %>
+                </a>
+            </div>
+        </div>
+
+    <%
+    }
+    %>
+</main>
+
+<footer class="text-center text-sm-start" style="background-color: 	#F0F8FF">
+    <div class="container">
+        <div class="text-center p-4 ">
+            © 2024 InstaSaver.me - All rights reserved.
+        </div>
+    </div>
+</footer>
+
+<script>
+    const ip_link=document.getElementById("ip_link"),btn_paste=document.getElementById("btn_paste"),btn_download=document.getElementById("btn_download"),loading=document.getElementById("loading");btn_paste.addEventListener("click",async()=>{try{ip_link.value=await navigator.clipboard.readText()}catch(n){console.error("Error pasting from clipboard:",n)}}),btn_download.addEventListener("click",function(){btn_download.style.display="none",loading.style.display="block",""===ip_link.value&&(btn_download.style.display="block",loading.style.display="none")});
+</script>
+
+<script>
+    const link_err=document.getElementById("link_err"),cancel_err=document.getElementById("cancel_err");cancel_err.addEventListener("click",function(){link_err.classList.add("hide")});
+</script>
+
+<script>
+    const res_timeout=document.getElementById("res_timeout"),cancel_timeout=document.getElementById("cancel_timeout");cancel_timeout.addEventListener("click",function(){res_timeout.classList.add("hide")});
+</script>
+
+<script src="https://cdn.jsdelivr.net/npm/axios@1.6.7/dist/axios.min.js"></script>
+</body>
+</html>

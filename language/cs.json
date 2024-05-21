@@ -1,0 +1,83 @@
+{
+  "lang": "cs",
+  "title": "Instagram Video Downloader - Tool to download video Instagram",
+  "description": "InstaSaver je jedním z nejlepších bezplatných nástrojů pro stahování videí dostupných online. Je snadno použitelný a nabízí rychlé stahování.",
+  "twitter_card_sumary": "InstaSaver",
+  "twitter_title": "Ins Downloader - Download Video Ins",
+  "twitter_description": "Ins Video Downloader - InstaSaver je jedním z nejlepších bezplatných nástrojů pro stahování videí dostupných online. Je snadno použitelný a nabízí rychlé stahování bez vodoznaků. Můžete stahovat Ins videa z jakéhokoli zařízení, které máte.",
+  "og_title": "Ins Downloader - Download Video Ins",
+  "og_description": "Ins Video Downloader - InstaSaver je jedním z nejlepších bezplatných nástrojů pro stahování videí dostupných online. Je snadno použitelný a nabízí rychlé stahování bez vodoznaků. Můžete stahovat Ins videa z jakéhokoli zařízení, které máte.",
+  "h1": "Instagram Downloader",
+  "h2": "Stáhnout Instagram video do formátu MP4.",
+  "placeholder": "Zadejte odkaz na Instagram pro stahování",
+  "paste": "Vložit",
+  "download": "Stáhnout",
+  "error": "URL je neplatná nebo neexistuje.",
+  "timeout": "Časový limit pro odpověď byl překročen.",
+  "h1_title": "InstaSaver - Nejlepší nástroj pro stahování z Instagramu",
+  "h1_content": "Vítejte v našem Instagram Downloader, kde se můžete opravdu ponořit do kouzelného světa Instagramu podle svých vlastních podmínek. S InstaSaverem můžete snadno stahovat videa z Instagramu, stahovat cívky z Instagramu nebo stahovat příběhy z Instagramu bez nutnosti přihlašovacích údajů na Instagramu. Rozlučte se s čekáním a rozlučte se s problémy. Váš oblíbený obsah na Instagramu je nyní připraven k offline použití - stačí pár mírných kliknutí na InstaSaver!",
+  "h2_title1": "Jak to funguje",
+  "h2_content1": [
+    "Zkopírujte URL videa z Instagramu: Jednoduše zkopírujte URL videa z Instagramu, které chcete stáhnout.",
+    "Vložte URL: Vložte URL do příslušného pole na našem webu.",
+    "Stáhnout video: Klikněte na tlačítko \"Stáhnout\" a hotovo! Vaše video bude uloženo na vaše zařízení."
+  ],
+  "h2_title2": "Klíčové vlastnosti",
+  "h2_content2": [
+    "Rychlé a jednoduché: Náš nástroj umožňuje stahování videí z Instagramu rychle a snadno.",
+    "Bez vodoznaku: Užívejte si stažená videa bez jakýchkoliv značek z nástroje pro stahování.",
+    "Uložte video z Instagramu: Stáhněte a uložte si svá oblíbená videa z Instagramu pro sledování kdykoli offline.",
+    "Jak stáhnout videa z Instagramu: Snadno následujte poskytnuté kroky pro bezproblémové stahování videí z Instagramu."
+  ],
+  "h2_title3": "Začněte nyní",
+  "h2_content3": "Jste připraveni začít stahovat svá videa z Instagramu? Použijte náš nástroj nyní a užívejte si svůj oblíbený obsah kdykoli a kdekoli.",
+  "save": "Stáhnout nyní",
+  "back": "Stáhnout více",
+  "language": "Jazyky",
+  "FAQ": [
+    {
+      "Q": "Jak používám stahovač videí z Instagramu?",
+      "A": "Je to jednoduché! Stačí zkopírovat URL adresu videa z Instagramu a vložit ji do našeho nástroje pro stahování."
+    },
+    {
+      "Q": "Zachovají si videa, která stáhnu, svou kvalitu?",
+      "A": "Ano, videa stažená pomocí Instagram Video Downloader budou mít stejnou kvalitu jako na Instagramu."
+    },
+    {
+      "Q": "Je nutná instalace nějakého softwaru?",
+      "A": "Není to potřeba! Instagram Video Downloader funguje online, není třeba instalovat žádný software."
+    },
+    {
+      "Q": "Mohu si stáhnout videa z Instagramu do mobilních telefonů?",
+      "A": "Rozhodně! Instagram Video Downloader funguje jak na počítačích, tak na mobilních telefonech."
+    },
+    {
+      "Q": "Mohu si z Instagramu stáhnout jak videa, tak příběhy?",
+      "A": "Ano, pomocí Instagram Video Downloader můžete stahovat jak videa, tak příběhy z Instagramu."
+    },
+    {
+      "Q": "Mohu stahovat videa z jakéhokoli účtu Instagram?",
+      "A": "Je to správně! Lze stáhnout jakékoli veřejné nebo soukromé video."
+    },
+    {
+      "Q": "Musím za používání této služby platit?",
+      "A": "Vůbec ne! Instagram Video Downloader je zcela zdarma."
+    },
+    {
+      "Q": "Bude na stažených videích vodoznak?",
+      "A": "Ne, Instagram Video Downloader nepřidává do stažených videí žádné vodoznaky."
+    },
+    {
+      "Q": "Existuje nějaký limit na počet videí, která si mohu stáhnout?",
+      "A": "Ne, žádný limit neexistuje! Můžete stahovat tolik videí z Instagramu, kolik chcete, bez jakýchkoli omezení."
+    },
+    {
+      "Q": "Kde jsou moje stažená videa uložena po jejich stažení?",
+      "A": "Videa jsou obvykle uloženy ve složce \"Stažené soubory\" jak na telefonech s Androidem, tak na PC."
+    }
+  ],
+  "card1_title": "Stáhnout video z Instagramu",
+  "card1_content": "InstaSaver byl vytvořen, aby vám umožnil stahovat IG videa pro jakýkoli účel, který chcete. InstaSaver podporuje stahování videí jak pro jednotlivá, tak pro více videí z Insta.",
+  "card2_title": "Stáhnout příběh z Instagramu",
+  "card2_content": "Příběh na Instagramu je jedinečný způsob, jak může kdokoli sdílet svůj každodenní život pomocí fotek a videí s každým. Někdy chcete uložit příběh, který se vám líbí, ale tato funkce není v aplikaci podporována. InstaSaver byl vytvořen, aby vyřešil tento problém; pomoci lidem stahovat příběhy na Instagramu a sledovat je přímo."
+}
