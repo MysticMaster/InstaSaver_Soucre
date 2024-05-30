@@ -8,7 +8,7 @@ const i18n = require('i18n');
 const glob = require('glob');
 const axios = require('axios');
 const {parse} = require("node-html-parser");
-const fs = require('fs').promises;
+const fs = require('fs').promises; //.promises
 const {v4: uuidv4} = require('uuid');
 const bodyParser = require("body-parser");
 
@@ -166,6 +166,23 @@ Promise.all(glob.sync('../language/*.json').map(async (file) => {
     console.error('Error:', error);
 });
 
+// const language_dict = {};
+// glob.sync('./language/*.json').forEach(function (file) {
+//     let dash = file.split(path.sep);
+//     if (dash.length === 2) {
+//         let dot = dash[1].split(".");
+//         if (dot.length === 2) {
+//             let lang = dot[0];
+//             fs.readFile(file, function (err, data) {
+//                 if (err) {
+//                     console.error(err);
+//                     return;
+//                 }
+//                 language_dict[lang] = JSON.parse(data.toString());
+//             });
+//         }
+//     }
+// });
 
 /* GET home page. */
 app.get('/', function (req, res, next) {
@@ -209,7 +226,7 @@ app.post('/', async (req, res) => {
         const language = req.body.lang;
         i18n.setLocale(req, language);
         if (!url || !url.startsWith('https://www.instagram.com/')) {
-            return res.render("index", {lang: language, error: "0"});
+            return res.render("index", {lang: language, error: 0});
         }
 
         const videos = [];
@@ -237,7 +254,7 @@ app.post('/', async (req, res) => {
                             thumbnail: "https://ig.instasaver.me/?url=" + obj.image_versions2.candidates[0].url,
                             type: 'mp4'
                         });
-                    }else {
+                    } else {
                         videos.push({
                             src: obj.image_versions2.candidates[0].url,
                             thumbnail: "https://ig.instasaver.me/?url=" + obj.image_versions2.candidates[0].url,
@@ -246,7 +263,7 @@ app.post('/', async (req, res) => {
                     }
                 });
 
-                res.status(200).render('index', {videos: videos, lang: language});
+                res.render('index', {videos: videos, lang: language});
             } else {
                 const response = await axios.request(options);
 
@@ -270,12 +287,12 @@ app.post('/', async (req, res) => {
 
         } catch (error) {
             console.error("Timeout: ", error);
-            return res.status(400).render("index", {timeout: "0"});
+            return res.render("index", {error: 1});
         }
 
     } catch (error) {
         console.log('Error: ', error);
-        return res.status(400).render("index", {timeout: "0"});
+        return res.render("index", {error: 1});
     }
 
 });

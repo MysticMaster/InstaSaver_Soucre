@@ -1,21 +1,21 @@
 {
   "lang": "ko",
-  "title": "인스타그램 비디오 다운로더 - 인스타그램 비디오 다운로드 도구",
-  "description": "인스타세이버는 온라인에서 사용할 수 있는 최고의 무료 비디오 다운로드 도구 중 하나입니다. 사용하기 쉽고 빠른 다운로드를 제공합니다",
+  "title": "Instagram Downloader  - Instagram 동영상을 MP4, Reels, 스토리, 사진으로 다운로드하세요 - InstaSaver",
+  "description": "Instagram 동영상 다운로드, 사진, Reels, 스토리를 모바일 및 PC로, Instagram Downloader  (사진, 동영상, 스토리)가 최고의 무료 온라인 다운로더 도구입니다.",
   "twitter_card_sumary": "InstaSaver",
-  "twitter_title": "인스타 다운로더 - 인스타그램 비디오 다운로드",
-  "twitter_description": "인스타 비디오 다운로더 - 인스타세이버는 온라인에서 사용할 수 있는 최고의 무료 비디오 다운로드 도구 중 하나입니다. 사용하기 쉽고 모든 기기에서  filigree (워터마크 없음) 다운로드를 제공합니다.  ",
-  "og_title": "인스타 다운로더 - 인스타그램 비디오 다운로드",
-  "og_description": "인스타 비디오 다운로더 - 인스타세이버는 온라인에서 사용할 수 있는 최고의 무료 비deo 다운로드 도구 중 하나입니다. 사용하기 쉽고 모든 기기에서 filigree (워터마크 없음) 다운로드를 제공합니다.  ",
-  "h1": "Instagram Downloader",
-  "h2": "인스타그램 비디오 MP4 다운로드",
-  "placeholder": "다운로드할 인스타그램 링크 입력",
+  "twitter_title": "Instagram Downloader  - Instagram 동영상을 MP4, Reels, 스토리, 사진으로 다운로드하세요 - InstaSaver",
+  "twitter_description": "Instagram 동영상 다운로드, 사진, Reels, 스토리를 모바일 및 PC로, Instagram Downloader  (사진, 동영상, 스토리)가 최고의 무료 온라인 다운로더 도구입니다.",
+  "og_title": "Instagram Downloader  - Instagram 동영상을 MP4, Reels, 스토리, 사진으로 다운로드하세요 - InstaSaver",
+  "og_description": "Instagram 동영상 다운로드, 사진, Reels, 스토리를 모바일 및 PC로, Instagram Downloader  (사진, 동영상, 스토리)가 최고의 무료 온라인 다운로더 도구입니다.",
+  "h1": "Instagram Downloader ",
+  "h2": "MP4, 사진, Reels, 스토리로 Instagram 동영상 다운로드",
+  "placeholder": "다운로드할 Instagram 링크를 입력하세요",
   "paste": "붙여넣기",
   "download": "다운로드",
-  "error": "URL이 유효하지 않거나 존재하지 않습니다",
+  "error": "URL이 잘못되었거나 존재하지 않습니다",
   "timeout": "응답 시간 초과",
-  "h1_title": "InstaSaver - 최고의 도구 Instagram 다운로더",
-  "h1_content": "우리의 Instagram 다운로더에 오신 것을 환영합니다. 여기에서는 당신만의 방식으로 Instagram의 마법적인 세계에 완전히 빠져들 수 있습니다. InstaSaver를 사용하면, Instagram 로그인 정보가 필요 없이 Instagram에서 비디오를 쉽게 다운로드하거나, Instagram에서 릴을 다운로드하거나 Instagram에서 스토리를 다운로드 할 수 있습니다. 대기 시간과 문제에 작별 인사를하세요. 당신이 가장 좋아하는 Instagram 콘텐츠는 이제 오프라인에서 즐길 준비가 되었습니다 - InstaSaver에서 몇 번의 부드러운 클릭만으로!",
+  "h1_title": "InstaSaver - Instagram 콘텐츠 저장을 위한 최고의 도구",
+  "h1_content": "우리의 Instagram Downloader 에 오신 것을 환영합니다. 여기에서는 당신만의 방식으로 Instagram의 마법적인 세계에 완전히 빠져들 수 있습니다. InstaSaver를 사용하면, Instagram 로그인 정보가 필요 없이 Instagram에서 비디오를 쉽게 다운로드하거나, Instagram에서 릴을 다운로드하거나 Instagram에서 스토리를 다운로드 할 수 있습니다. 대기 시간과 문제에 작별 인사를하세요. 당신이 가장 좋아하는 Instagram 콘텐츠는 이제 오프라인에서 즐길 준비가 되었습니다 - InstaSaver에서 몇 번의 부드러운 클릭만으로!",
   "h2_title1": "사용 방법",
   "h2_content1": [
     "인스타그램 비디오 URL 복사: 다운로드하려는 인스타그램 비디오의 URL을 복사합니다.",
@@ -77,7 +77,7 @@
     }
   ],
   "card1_title": "인스타그램 비디오 다운로드",
-  "card1_content": "인스타세이버는 원하는 용도에 맞게 IG 비디오를 다운로드할 수 있도록 만들어졌습니다. 인스타세이버는 인스타에서 단일 비디오와 여러 비디오 모두 다운로드를 지원합니다.",
+  "card1_content": "InstaSaver는 원하는 용도에 맞게 IG 비디오를 다운로드할 수 있도록 만들어졌습니다. InstaSaver는 인스타에서 단일 비디오와 여러 비디오 모두 다운로드를 지원합니다.",
   "card2_title": "인스타그램 스토리 다운로드",
-  "card2_content": "인스타그램 스토리는 누구나 사진과 비디오를 통해 일상을 모든 사람과 공유하는 독특한 방식입니다. 때때로 좋아하는 스토리를 저장하고 싶지만 이 기능은 앱에서 지원되지 않습니다. 인스타세이버는 이 문제를 해결하기 위해 만들어졌으며, 사람들이 인스타그램에서 스토리를 다운로드하여 직접 시청할 수 있도록 돕습니다."
+  "card2_content": "인스타그램 스토리는 누구나 사진과 비디오를 통해 일상을 모든 사람과 공유하는 독특한 방식입니다. 때때로 좋아하는 스토리를 저장하고 싶지만 이 기능은 앱에서 지원되지 않습니다. InstaSaver는 이 문제를 해결하기 위해 만들어졌으며, 사람들이 인스타그램에서 스토리를 다운로드하여 직접 시청할 수 있도록 돕습니다."
 }
